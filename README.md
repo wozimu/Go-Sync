@@ -1,40 +1,26 @@
-<h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
+# ENGLISH
+# Google Contacts and Calendar Sync Adapters for use with MicroG
 
-<div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v3.7-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-April 24, 2024-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-  <!-- Min Magisk -->
-    <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-  <!-- Min KSU -->
-    <img src="https://img.shields.io/badge/MinKernelSU-0.6.6-red.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" /></div>
+This is a Magisk module that contains the required files to be able to sync your Contacts and Calendar from your Google accounts data sync to your device.
 
-<div align="center">
-  <strong>MMT Extended is the spiritual successor of Unity and makes magisk module creation easy. Instructions in the 
-    <h3><a href="https://github.com/Zackptg5/MMT-Extended/wiki">Wiki</a></h3><h4>Also supports KSU</h4>
-</div>
+For use with MicroG / GApps. WARNING: Compatible only with arm64/64-bit devices running Android 12 and above!
 
-<div align="center">
-  <h3>
-    <a href="https://github.com/Zackptg5/MMT-Extended">
-      Source Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Zackptg5/MMT-Extended-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819">
-      XDA
-    </a>
-  </h3>
-</div>
+# Versions
 
-### Usage
-- [Follow the directions here (DO NOT FORK)](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-- Then follow instructions in [Wiki](https://github.com/Zackptg5/MMT-Extended/wiki)
+Taken from [APKMirror](https://www.apkmirror.com/apk/google-inc/).
+
+- Google Calendar Sync (`com.google.android.syncadapters.calendar`): Version 2024.14.0-622676295-release
+- Google Contacts Sync (`com.google.android.syncadapters.contacts`): Version 12-8361351
+
+# INDONESIA
+# Google Contacts dan Calendar Sync Adapters untuk digunakan dengan MicroG
+
+Ini adalah modul Magisk/KSU(N) yang berisi file yang diperlukan untuk dapat menyinkronkan data sinkron Kontak dan Kalender dari akun Google Anda ke perangkat Anda.
+
+Untuk digunakan dengan MicroG / GApps. PERINGATAN: Hanya kompatibel dengan perangkat arm64/64-bit yang menjalankan Android 12 dan lebih tinggi!
+
+# Versi Aplikasi
+Diambil dari [APKMirror](https://www.apkmirror.com/apk/google-inc/).
+
+Google Calendar Sync (com.google.android.syncadapters.calendar): Versi 2024.14.0-622676295-release
+Google Contacts Sync (com.google.android.syncadapters.contacts): Versi 12-8361351
