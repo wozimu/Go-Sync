@@ -1,5 +1,5 @@
 # ENGLISH
-# Google Contacts and Calendar Sync Adapters for use with MicroG
+# Google Contacts and Calendar Sync Adapters for use with MicroG / GApps Zip non-bundled with GApps Sync Adapters Apps.
 
 This is a Magisk module that contains the required files to be able to sync your Contacts and Calendar from your Google accounts data sync to your device.
 
@@ -13,7 +13,7 @@ Taken from [APKMirror](https://www.apkmirror.com/apk/google-inc/).
 - Google Contacts Sync (`com.google.android.syncadapters.contacts`): Version 12-8361351
 
 # INDONESIA
-# Google Contacts dan Calendar Sync Adapters untuk digunakan dengan MicroG
+# Google Contacts dan Calendar Sync Adapters untuk digunakan dengan MicroG / GApps zip yang tidak satu paket dengan Aplikasi GApps Sync Adapters Apps.
 
 Ini adalah modul Magisk/KSU(N) yang berisi file yang diperlukan untuk dapat menyinkronkan data sinkron Kontak dan Kalender dari akun Google Anda ke perangkat Anda.
 
